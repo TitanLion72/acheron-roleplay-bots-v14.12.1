@@ -34,3 +34,4 @@ Bot djs v14.12.1 sürümü ile kodlanmıştır herhangi bir hata veya sorun bulu
 ![image](https://github.com/TitanLion72/acherion-roleplay-bots-v14.12.1/assets/110048828/68b5dbeb-fffa-4d9a-8681-94b8ab1eb8f2)
 ![image](https://github.com/TitanLion72/acherion-roleplay-bots-v14.12.1/assets/110048828/19cbe6b0-a063-4270-981a-7038d96a3562)
 ![image](https://github.com/TitanLion72/acherion-roleplay-bots-v14.12.1/assets/110048828/4a4e68ad-01f4-4e32-878b-2aa8b2958692)
+https://veed.io/view/5af25bff-0127-49d7-8c46-480b2c34bfa6
