@@ -1,8 +1,8 @@
 
 https://github.com/TitanLion72/acherion-roleplay-bots-v14.12.1/assets/110048828/7ff908a8-aea6-4005-8a6c-661d9ab43b90
-# acherion-roleplay-bots-v14.12.1
+# acheron-roleplay-bots-v14.12.1
 
-## Acherion roleplay sunucusunun bot örnekleri
+## Acheron roleplay sunucusunun bot örnekleri
 
 Bot djs v14.12.1 sürümü ile kodlanmıştır herhangi bir hata veya sorun bulunmamaktadır şu an için paylaşmayı düşünmüyorum ama ilerde paylaşma ihtimalim yüksek
 
